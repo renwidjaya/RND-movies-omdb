@@ -13,34 +13,32 @@ const Details = () => {
           <img src={details.Poster} className="thumbnail" alt="Poster" />
         </div>
         <div className="col-md-8">
-          <h2 className="mb-4">{details.Title}</h2>
-          <ul className="list-group">
-            <li className="list-group-item">
+          <h2>{details.Title}</h2>
+          <ul>
+            <li>
               <strong>Genre:</strong> {details.Genre}
             </li>
-            <li className="list-group-item">
+            <li>
               <strong>Released:</strong> {details.Released}
             </li>
-            <li className="list-group-item">
+            <li>
               <strong>Rated:</strong> {details.Rated}
             </li>
-            <li className="list-group-item">
+            <li>
               <strong>IMDB Rating:</strong> {details.imdbRating}
             </li>
-            <li className="list-group-item">
+            <li>
               <strong>Director:</strong> {details.Director}
             </li>
-            <li className="list-group-item">
+            <li>
               <strong>Writer:</strong> {details.Writer}
             </li>
-            <li className="list-group-item">
+            <li>
               <strong>Actors:</strong> {details.Actors}
             </li>
           </ul>
 
-          <Link to="/" className="btn">
-            Back To Home
-          </Link>
+          <Link to="/">Back To Home</Link>
         </div>
       </div>
     </div>
