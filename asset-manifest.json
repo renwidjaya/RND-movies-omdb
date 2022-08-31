@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/renwidjaya/RND-movies-omdb/static/css/main.0bca90ec.css",
+    "main.js": "/renwidjaya/RND-movies-omdb/static/js/main.cbad5e9d.js",
+    "static/js/787.14e4bc02.chunk.js": "/renwidjaya/RND-movies-omdb/static/js/787.14e4bc02.chunk.js",
+    "index.html": "/renwidjaya/RND-movies-omdb/index.html",
+    "main.0bca90ec.css.map": "/renwidjaya/RND-movies-omdb/static/css/main.0bca90ec.css.map",
+    "main.cbad5e9d.js.map": "/renwidjaya/RND-movies-omdb/static/js/main.cbad5e9d.js.map",
+    "787.14e4bc02.chunk.js.map": "/renwidjaya/RND-movies-omdb/static/js/787.14e4bc02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bca90ec.css",
+    "static/js/main.cbad5e9d.js"
+  ]
+}
